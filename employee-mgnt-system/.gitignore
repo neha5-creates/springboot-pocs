@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+
+# Spring Boot
+application.properties
+
+# Logs
+*.log
+
+# AWS
+.aws/
+
+# OS Files
+.DS_Store
+Thumbs.db

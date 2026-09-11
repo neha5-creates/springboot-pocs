@@ -1,19 +1,22 @@
-# Maven
-target/
+# Maven build output
+**/target/
 
-# IDE
-.idea/
-.vscode/
+# IDE files
+**/.idea/
+**/.vscode/
 
-# Spring Boot
-application.properties
+# Local Spring configuration
+**/application.properties
+**/application.yml
+**/application.yaml
+
+# Environment and credentials
+**/.env
+**/.aws/
 
 # Logs
-*.log
+**/*.log
 
-# AWS
-.aws/
-
-# OS Files
+# Operating system files
 .DS_Store
 Thumbs.db
