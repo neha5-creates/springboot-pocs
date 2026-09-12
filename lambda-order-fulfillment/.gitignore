@@ -1,0 +1,34 @@
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Local environment
+.env
+
+# AWS local credentials
+.aws/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+target/
+
+.idea/
+
+.vscode/
+
+*.log
+
+.aws/
+
+.env
